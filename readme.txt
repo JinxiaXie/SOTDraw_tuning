@@ -11,7 +11,7 @@
 其他：
 一、上面的功能应该没问题，目前lasot数据集畅通无阻。如果有其他数据集需求的可以自己尝试。参考源代码：https://github.com/Giveupfree/SOTDrawRect
 
-二、环境：比较简单，一般跟踪器环境就行，缺啥补啥。
+二、环境：比较简单，一般跟踪器例如(OStrack)环境就行，缺啥补啥。
 
 三、有些写了绝对路径，应该一眼能看出来是什么路径。例如：./toolkit/datasets/lasot.py 里面的line：91
 
