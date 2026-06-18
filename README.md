@@ -1,5 +1,6 @@
 # 官方实现请另外参考：https://github.com/Giveupfree/SOTDrawRect
 ## 基本需求请看readme.txt，不满足的自行探索
+可以画雷达图、多个跟踪器跟踪结果可视化、挑战属性曲线图
 # SOTDrawRect
 The purpose of this repo is to provide evaluation API of Current Single Object Tracking Dataset, including
 - [x] [VOT2016](http://www.votchallenge.net/vot2016/dataset.html)
